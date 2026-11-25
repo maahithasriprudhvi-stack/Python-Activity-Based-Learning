@@ -1,0 +1,6 @@
+Enter text (letters only): aaaaabb
+Original: aaaaabb
+Encoded: a5b2
+Original length: 7
+Encoded length: 4
+Compression is beneficial.

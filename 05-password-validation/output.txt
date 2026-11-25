@@ -1,0 +1,3 @@
+Enter a sample password: Password1!
+INVALID
+- contains prohibited text: password

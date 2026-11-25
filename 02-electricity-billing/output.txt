@@ -1,0 +1,22 @@
+Number of months: 3
+
+Month 1
+Month name: January
+Units consumed: 100
+January: energy Rs 300.00, fixed Rs 50.00, surcharge Rs 0.00, rebate Rs 0.00
+Bill: Rs 350.00
+
+Month 2
+Month name: February
+Units consumed: 200
+February: energy Rs 800.00, fixed Rs 50.00, surcharge Rs 0.00, rebate Rs 0.00
+Bill: Rs 850.00
+Bill change: +142.86%
+Unusual increase: more than 30%
+
+Month 3
+Month name: March
+Units consumed: 50
+March: energy Rs 150.00, fixed Rs 50.00, surcharge Rs 0.00, rebate Rs 7.50
+Bill: Rs 192.50
+Bill change: -77.35%

@@ -1,0 +1,56 @@
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 1
+Roll number: R1
+Name: Anu
+Student added: R1 Anu
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 2
+Roll number: R1
+Classes attended: 9
+Classes held: 10
+Attendance: 90.00%
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 3
+Roll number: R1
+Marks in 3 subjects: 70 80 90
+Marks saved. Average: 80.00
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 4
+Roll number: R1
+Event name: Sports
+Event registered: R1 SPORTS
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 5
+Group or activity: Club
+Laptops needed: 6
+Allocated 6. Available: 4
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 6
+
+Campus summary
+Students: 1
+R1 Anu
+  Attendance: 9/10 (90.00%)
+  Marks: [70, 80, 90] | Average: 80.00
+Event registrations: 1
+  R1 SPORTS
+Resource allocations:
+  Club - 6 laptops
+Laptops remaining: 4
+
+1 Add student | 2 Attendance | 3 Marks | 4 Event
+5 Allocate laptops | 6 Summary | 0 Exit
+Choice: 0
+Session ended.

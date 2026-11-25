@@ -1,0 +1,11 @@
+Number of students: 5
+
+     C1   C2   C3   C4   C5
+R1     R    X  S01    X  S02
+R2     X  S03    R  S04    X
+R3   S05    X    O    X    O
+R4     X    O    X    O    X
+R = reserved, X = blocked, O = available
+Positions: 20 | Reserved: 2 | Blocked: 9
+Available student seats: 9
+Assigned: 5 | Unseated: 0

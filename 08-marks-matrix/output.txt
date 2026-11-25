@@ -1,0 +1,20 @@
+Number of students (1 to 20): 2
+
+Student 1
+Name: Anu
+Marks in Maths, Physics and Python: 80 50 90
+
+Student 2
+Name: Bala
+Marks in Maths, Physics and Python: 70 60 80
+
+Student totals and averages:
+Anu: total 220, average 73.33
+Bala: total 210, average 70.00
+Top performer(s):
+Anu - total 220
+
+Subject averages:
+Maths: 75.00
+Physics: 55.00 - low average
+Python: 85.00

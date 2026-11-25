@@ -1,0 +1,7 @@
+3
+January
+100
+February
+200
+March
+50

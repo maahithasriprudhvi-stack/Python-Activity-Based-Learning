@@ -1,0 +1,6 @@
+Enter an odd height from 3 to 9: 5
+  1
+ 2 2
+3   3
+ 2 2
+  1

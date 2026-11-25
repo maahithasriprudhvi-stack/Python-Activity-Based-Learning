@@ -1,0 +1,36 @@
+Number of applicants: 4
+
+Applicant 1
+Roll number: A02
+Name: Anu
+Marks in 3 subjects: 70 70 70
+Attendance percentage: 80
+Annual family income: 450000
+
+Applicant 2
+Roll number: A01
+Name: Balu
+Marks in 3 subjects: 70 70 70
+Attendance percentage: 80
+Annual family income: 400000
+
+Applicant 3
+Roll number: A03
+Name: Chitra
+Marks in 3 subjects: 49 80 80
+Attendance percentage: 90
+Annual family income: 300000
+A03 not eligible: a subject is below 50
+
+Applicant 4
+Roll number: A04
+Name: Deepa
+Marks in 3 subjects: 90 90 90
+Attendance percentage: 95
+Annual family income: 500001
+A04 not eligible: income above 500000
+
+Eligible applicants (ranked):
+1. A01 Balu | average 70.00 | attendance 80% | income Rs 400000
+2. A02 Anu | average 70.00 | attendance 80% | income Rs 450000
+Eligible: 2 | Rejected or invalid: 2

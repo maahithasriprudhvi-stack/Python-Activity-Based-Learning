@@ -1,0 +1,20 @@
+Number of students: 3
+
+Student 1
+Roll number: R01
+Course codes separated by spaces: CS101 CS201
+
+Student 2
+Roll number: R02
+Course codes separated by spaces: CS301 PHY101 PHY102
+
+Student 3
+Roll number: R03
+Course codes separated by spaces: CS101 CS101
+
+Registration results:
+R01 VALID
+R02 INVALID: CS301 requires CS201; CS301 requires CS101; PHY101 and PHY102 cannot be combined
+R03 INVALID: duplicate course CS101
+Valid: 1 | Invalid: 2
+Students with violations: R02, R03
